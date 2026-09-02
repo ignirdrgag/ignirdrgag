@@ -121,8 +121,6 @@ Portfolio : [portfolio-fred-two.vercel.app](https://portfolio-fred-two.vercel.ap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignirdrgag&layout=compact&title_color=14b8a6&text_color=c0c8d6&bg_color=0b1120&hide_border=true&border_radius=12&locale=fr)](https://github.com/ignirdrgag)
 
-[![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=ignirdrgag&bg_color=0b1120&color=14b8a6&line=0f766e&point=ffffff&area=true&hide_border=true&radius=12)](https://github.com/ignirdrgag)
-
 ---
 
 ## 🐍 Contribution Snake
