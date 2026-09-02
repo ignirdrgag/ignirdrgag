@@ -83,31 +83,31 @@ Portfolio : [portfolio-fred-two.vercel.app](https://portfolio-fred-two.vercel.ap
 
 ### 🐍 Développement
 
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg)](https://www.djangoproject.com/)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/fr/docs/Web/CSS)
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38" alt="Python"></a>
+<a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" height="38" alt="Django"></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="38" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38" alt="CSS3"></a>
 
 ### 🗄️ Bases de données
 
-[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org/)
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-[![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg)](https://www.sqlite.org/)
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="38" alt="PostgreSQL"></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="38" alt="MySQL"></a>
+<a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" height="38" alt="SQLite"></a>
 
 ### ⚙️ DevOps & Outils
 
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/)
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![Ubuntu](https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg)](https://ubuntu.com/)
-[![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)](https://www.gnu.org/software/bash/)
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="38" alt="Docker"></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="38" alt="Git"></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="38" alt="GitHub"></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38" alt="Linux"></a>
+<a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="38" alt="Ubuntu"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="38" alt="Bash"></a>
 
 ### 🎨 Frontend
 
-[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com/)
-[![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg)](https://tailwindcss.com/)
+<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="38" alt="Bootstrap"></a>
+<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="Tailwind CSS"></a>
 
 **Focus :** Django REST API • PostgreSQL • Automatisation Bash • Docker • Linux
 
