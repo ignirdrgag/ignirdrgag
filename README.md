@@ -10,12 +10,12 @@
 
 ## 🧑‍💻 À propos
 
-Développeur **backend** spécialisé **Python · Django · Django REST Framework**, bases de données relationnelles et **Linux**. Je conçois des backends **fiables, sécurisés et prêts pour la production**.
+Développeur **backend** spécialisé **Python · Django · Django REST Framework**, bases de données relationnelles et **Linux**. Je construis des backends **fiables, sécurisés et prêts pour la production**.
 
 🔹 Je construis des **API REST robustes** avec Django REST Framework  
 🔹 Je modélise et j'optimise **PostgreSQL / MySQL / SQLite**  
 🔹 J'automatise avec **Bash** et je conteneurise avec **Docker**  
-🔹 Je structure mes projets avec **Git / GitHub Actions**  
+🔹 Je fais la **gestion des versions** de mes projets avec **Git / GitHub Actions** pour le **CI/CD**  
 🔹 J'oriente ma progression vers le **cloud (Kubernetes)** et la **data science**
 
 💡 Ma mission : **bâtir des systèmes sous contrôle, des données propres et des API qui répondent.**
